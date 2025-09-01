@@ -1,6 +1,6 @@
 # Luku 3: Merge-konfliktit
 Kirjoittaja: [avifi]
 
-## Mitä on merge-konflikti?
+## merge-konfliktin ratkaisu?
 
-Konflikti syntyy kun...
+Ratkaisu on...
