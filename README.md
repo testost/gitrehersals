@@ -1,1 +1,1 @@
-Pikakorjaus
+Pikakorjaus, muokattu githubissa
